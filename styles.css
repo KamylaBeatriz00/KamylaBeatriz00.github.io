@@ -1,0 +1,52 @@
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;  
+    background-image: url('https://i.pinimg.com/originals/02/e6/f6/02e6f69adb3623556fca21eb0cb13223.gif'); 
+    background-size: cover; 
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-position: center center;
+    margin: 0;
+    padding: 0;
+}
+
+
+header {
+   ;
+    color:hsl(0, 0%, 100%);
+    text-align: center;
+    padding: 1rem;
+}
+
+
+
+.campanha {
+    max-width: 800px;
+    margin: 0 auto;
+    padding: 2rem;
+    text-align: center;
+}
+
+.campanha img {
+    width: 150px;
+    border-radius: 50%;
+}
+
+
+.botao {
+    display: inline-block;
+    padding: 0.5rem 1rem;
+    background-color: #ff9f9f;
+    color: #ffffff;
+    text-decoration: none;
+    border-radius: 5px;
+}
+
+
+footer {
+    text-align: center;
+    padding: 1rem;
+
+}
